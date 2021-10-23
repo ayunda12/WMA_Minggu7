@@ -12,7 +12,7 @@ NIM  : E41201809<br/>
 <img src="https://user-images.githubusercontent.com/47249108/138538257-e296f3a2-c277-4f7b-afdb-9b51e6699eba.jpg" width="288" height="640"><br/>
 <b>4. Tampilan Update Data</b> <br/>
 <img src="https://user-images.githubusercontent.com/47249108/138538260-1193686a-8f36-4dd5-90e7-63ccb99a833e.jpg" width="288" height="640"><br/>
-<b>5. Tampilan Hapus Data</b> <br/>
+<b>5. Tampilan Hapus Data dengan geser ke ke kiri tiap item</b> <br/>
 <img src="https://user-images.githubusercontent.com/47249108/138538263-600470c3-9b9f-4297-9b60-e07735d11a22.jpg" width="288" height="640"><br/>
 
 <b>Manajemen File Android</b><br/>
