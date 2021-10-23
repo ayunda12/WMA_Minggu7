@@ -10,8 +10,7 @@ NIM  : E41201809<br/>
 <img src="https://user-images.githubusercontent.com/47249108/138538254-39940c0d-acca-4a1a-98a6-06157e776585.jpg" width="288" height="640"><br/>
 <b>3. Tampilan Detail Data</b> <br/>
 <img src="https://user-images.githubusercontent.com/47249108/138538257-e296f3a2-c277-4f7b-afdb-9b51e6699eba.jpg" width="288" height="640"><br/>
-
-![Screenshot_2021-10-22-23-59-09-25](https://user-images.githubusercontent.com/47249108/138538260-1193686a-8f36-4dd5-90e7-63ccb99a833e.jpg)
-![Screenshot_2021-10-22-23-59-21-71](https://user-images.githubusercontent.com/47249108/138538261-9808582e-c342-4048-89ef-20c0e113229c.jpg)
-![Screenshot_2021-10-22-23-59-25-84](https://user-images.githubusercontent.com/47249108/138538263-600470c3-9b9f-4297-9b60-e07735d11a22.jpg)
-
+<b>4. Tampilan Update Data</b> <br/>
+<img src="https://user-images.githubusercontent.com/47249108/138538260-1193686a-8f36-4dd5-90e7-63ccb99a833e.jpg" width="288" height="640"><br/>
+<b>5. Tampilan Hapus Data</b> <br/>
+<img src="https://user-images.githubusercontent.com/47249108/138538263-600470c3-9b9f-4297-9b60-e07735d11a22.jpg" width="288" height="640"><br/>
