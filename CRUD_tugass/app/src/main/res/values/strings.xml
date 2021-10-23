@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CRUD_tugass</string>
+    <dimen name="fab_margin">16dp</dimen>
+    <string name="action_settings">Settings</string>
+</resources>
