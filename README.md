@@ -16,13 +16,8 @@ NIM  : E41201809<br/>
 <img src="https://user-images.githubusercontent.com/47249108/138538263-600470c3-9b9f-4297-9b60-e07735d11a22.jpg" width="288" height="640"><br/>
 
 
-![Screenshot_2021-10-23-08-23-46-35](https://user-images.githubusercontent.com/47249108/138538604-6c944d5b-ef71-45d2-b27d-eb60bc7faa14.jpg)
-![Screenshot_2021-10-23-08-22-52-17](https://user-images.githubusercontent.com/47249108/138538605-f062a317-214e-4b0d-b1bd-9970468cf7ee.jpg)
-![Screenshot_2021-10-23-08-23-19-32](https://user-images.githubusercontent.com/47249108/138538606-aedba96c-2262-4c85-8815-6f22cba3a2ff.jpg)
-![Screenshot_2021-10-23-08-23-31-46](https://user-images.githubusercontent.com/47249108/138538607-e917aa93-42d0-4db1-8204-179b3cd468c4.jpg)
-
 <b>Manajemen File Android</b><br/>
+<img src="https://user-images.githubusercontent.com/47249108/138538605-f062a317-214e-4b0d-b1bd-9970468cf7ee.jpg" width="288" height="640"><br/>
 <img src="https://user-images.githubusercontent.com/47249108/138538604-6c944d5b-ef71-45d2-b27d-eb60bc7faa14.jpg" width="288" height="640"><br/>
-<img src="https://user-images.githubusercontent.com/47249108/138538604-6c944d5b-ef71-45d2-b27d-eb60bc7faa14.jpg" width="288" height="640"><br/>
-<img src="https://user-images.githubusercontent.com/47249108/138538604-6c944d5b-ef71-45d2-b27d-eb60bc7faa14.jpg" width="288" height="640"><br/>
-<img src="https://user-images.githubusercontent.com/47249108/138538604-6c944d5b-ef71-45d2-b27d-eb60bc7faa14.jpg" width="288" height="640"><br/>
+<img src="https://user-images.githubusercontent.com/47249108/138538606-aedba96c-2262-4c85-8815-6f22cba3a2ff.jpg" width="288" height="640"><br/>
+<img src="https://user-images.githubusercontent.com/47249108/138538607-e917aa93-42d0-4db1-8204-179b3cd468c4.jpg" width="288" height="640"><br/>
